@@ -1,0 +1,5 @@
+12345,National Bookstore,10010,Catch-22,Joseph Heller,10,2025-06-25,2025-06-25
+98726,10010,National Bookstore,Fourth Wing,Rebecca Yarros,8,2025-06-25,2025-06-25
+45830,National Bookstore,10010,Treasure Island,Robert Louis Stevenson,30,2025-06-25,2025-06-25
+07395,Rebooked,12121,The Twilight Saga,Stephine Meyers,10,2025-06-25,2025-06-25
+84721,Rebooked,12121,Jane Eyre,Charlotte Bronte,10,2025-06-25,2025-06-25
